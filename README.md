@@ -1,3 +1,5 @@
+# --- Este repositorio se corresponde con la simulación ATLAS "Alumno Test-4 (simulación manual “estándar realista”)"
+
 # Biblioteca PFC (DAM) — README técnico
 
 Aplicación web sencilla para gestionar préstamos de libros en una biblioteca pequeña:
